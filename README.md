@@ -4,4 +4,4 @@
 ## Deep Learning with Python
 
 
-## Advanced Deep Learning and Neural Network
+## Advanced Neural Networks and Deep Learning
